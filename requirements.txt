@@ -77,3 +77,6 @@ wandb #>=0.12.0                 # Experiment tracking alternative
 # Uncomment if you want to use Jupyter Notebook extensions
 # jupyter_contrib_nbextensions>=0.5.1
 # pip install jupyter_contrib_nbextensions
+
+# 
+mp_api
