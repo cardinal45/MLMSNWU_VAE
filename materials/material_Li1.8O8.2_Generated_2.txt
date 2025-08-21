@@ -1,0 +1,52 @@
+# Material Information
+Material ID: Generated_2
+Chemical Formula: Li1.8O8.2
+Material Type: Oxide
+Complexity: Binary
+Formation Energy: -2.179184 eV/atom
+Number of Elements: 2
+
+# Composition (Atomic Fractions)
+Li: 0.188034
+O: 0.831546
+
+# Feature Vector
+Feature_0: -0.323644
+Feature_1: 0.238449
+Feature_2: 0.302359
+Feature_3: 0.476902
+Feature_4: 0.730696
+Feature_5: 0.717342
+Feature_6: -0.253648
+Feature_7: 0.662457
+Feature_8: 0.644547
+Feature_9: -0.122364
+Feature_10: 0.188034
+Feature_11: -0.125215
+Feature_12: -0.167659
+Feature_13: 0.831546
+Feature_14: -0.109749
+Feature_15: 0.042624
+Feature_16: -0.106224
+Feature_17: -0.059938
+Feature_18: -0.098245
+Feature_19: 0.082099
+Feature_20: -0.107987
+Feature_21: 0.000852
+Feature_22: 0.057699
+Feature_23: -0.015014
+Feature_24: 0.055030
+Feature_25: 0.077787
+Feature_26: 0.031110
+Feature_27: 0.081363
+Feature_28: 0.061496
+Feature_29: -0.037633
+Feature_30: -0.058014
+Feature_31: -0.046193
+Feature_32: -0.070330
+Feature_33: -0.087990
+Feature_34: -0.077213
+Feature_35: -0.063551
+Feature_36: 0.045640
+Feature_37: 0.007043
+Feature_38: -0.014321

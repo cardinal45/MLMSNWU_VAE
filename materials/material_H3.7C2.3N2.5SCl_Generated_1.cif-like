@@ -1,0 +1,23 @@
+# CIF-like Material Description
+# This is a simplified representation for educational purposes
+# Real CIF files require crystallographic data not available from VAE
+
+data_H3_7C2_3N2_5SCl
+
+_chemical_formula_sum    'H3.7C2.3N2.5SCl'
+_chemical_name_common    'Non-metallic'
+_formation_energy        -1.482788
+_number_of_elements      5
+
+# Composition
+loop_
+_atom_site_label
+_atom_site_occupancy
+H1  0.880226
+C1  0.548162
+N1  0.603498
+S1  0.235806
+Cl1  0.140696
+
+# Note: Atomic coordinates would require crystal structure prediction
+# which is beyond the scope of this VAE model

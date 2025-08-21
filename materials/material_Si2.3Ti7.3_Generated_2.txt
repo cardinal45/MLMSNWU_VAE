@@ -1,0 +1,114 @@
+# Material Information
+Material ID: Generated_2
+Chemical Formula: Si2.3Ti7.3
+Material Type: Compound
+Complexity: Ternary
+Formation Energy: -2.307082 eV/atom
+Number of Elements: 3
+
+# Composition (Atomic Fractions)
+F: 0.104238
+Si: 0.585249
+Ti: 1.899930
+
+# Feature Vector
+Feature_0: -0.110020
+Feature_1: -0.099603
+Feature_2: -0.022224
+Feature_3: -0.111214
+Feature_4: -0.001431
+Feature_5: 0.104238
+Feature_6: -0.109397
+Feature_7: -0.135416
+Feature_8: -0.247264
+Feature_9: 0.585249
+Feature_10: -0.071061
+Feature_11: -0.222840
+Feature_12: -0.024622
+Feature_13: -0.042916
+Feature_14: -0.069273
+Feature_15: 1.899930
+Feature_16: -0.112518
+Feature_17: -0.083197
+Feature_18: -0.188512
+Feature_19: -0.059048
+Feature_20: -0.189031
+Feature_21: -0.233137
+Feature_22: -0.092047
+Feature_23: -0.241391
+Feature_24: -0.102605
+Feature_25: -0.090277
+Feature_26: -0.019305
+Feature_27: -0.120212
+Feature_28: -0.006967
+Feature_29: 0.092319
+Feature_30: -0.103572
+Feature_31: -0.131998
+Feature_32: -0.248014
+Feature_33: 0.588605
+Feature_34: -0.052275
+Feature_35: -0.216512
+Feature_36: -0.033547
+Feature_37: -0.039207
+Feature_38: -0.053182
+Feature_39: 1.911848
+Feature_40: -0.101748
+Feature_41: -0.103374
+Feature_42: -0.189882
+Feature_43: -0.039876
+Feature_44: -0.185098
+Feature_45: -0.218057
+Feature_46: -0.084849
+Feature_47: -0.235567
+Feature_48: -0.115375
+Feature_49: -0.105767
+Feature_50: -0.023595
+Feature_51: -0.115315
+Feature_52: -0.006429
+Feature_53: 0.096967
+Feature_54: -0.103547
+Feature_55: -0.126889
+Feature_56: -0.237568
+Feature_57: 0.581797
+Feature_58: -0.071712
+Feature_59: -0.222261
+Feature_60: -0.021846
+Feature_61: -0.041458
+Feature_62: -0.048585
+Feature_63: 1.902487
+Feature_64: -0.093351
+Feature_65: -0.089319
+Feature_66: -0.184745
+Feature_67: -0.050258
+Feature_68: -0.207060
+Feature_69: -0.211224
+Feature_70: -0.079672
+Feature_71: -0.234074
+Feature_72: 0.117007
+Feature_73: 0.047614
+Feature_74: -0.033141
+Feature_75: -0.061037
+Feature_76: 0.087092
+Feature_77: 0.204690
+Feature_78: 0.004705
+Feature_79: 0.043797
+Feature_80: -0.030173
+Feature_81: -0.009446
+Feature_82: 0.122558
+Feature_83: 0.008240
+Feature_84: 0.003261
+Feature_85: -0.004038
+Feature_86: -0.078867
+Feature_87: 0.023450
+Feature_88: -0.010553
+Feature_89: 0.064636
+Feature_90: 0.023308
+Feature_91: 0.034369
+Feature_92: 0.025170
+Feature_93: 0.070401
+Feature_94: 0.036972
+Feature_95: -0.052318
+Feature_96: 0.069111
+Feature_97: -0.033740
+Feature_98: -0.005533
+Feature_99: 0.086955

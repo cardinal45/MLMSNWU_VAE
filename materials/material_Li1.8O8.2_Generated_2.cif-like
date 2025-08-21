@@ -1,0 +1,20 @@
+# CIF-like Material Description
+# This is a simplified representation for educational purposes
+# Real CIF files require crystallographic data not available from VAE
+
+data_Li1_8O8_2
+
+_chemical_formula_sum    'Li1.8O8.2'
+_chemical_name_common    'Oxide'
+_formation_energy        -2.179184
+_number_of_elements      2
+
+# Composition
+loop_
+_atom_site_label
+_atom_site_occupancy
+Li1  0.188034
+O1  0.831546
+
+# Note: Atomic coordinates would require crystal structure prediction
+# which is beyond the scope of this VAE model

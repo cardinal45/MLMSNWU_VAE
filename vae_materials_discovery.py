@@ -1,9 +1,10 @@
-#%%
+# %%
 #!/usr/bin/env python3
 """
 # Variational Autoencoder for Materials Discovery
 
-## Workshop: Machine Learning for Materials Science
+## Workshop: Machine Learning Methods for Materials Science at Centre for Space Research,NWU
+https://mesfind.github.io/matgnn/
 
 ### Project 1: Materials Representation Learning using Variational Autoencoders
 
@@ -13,21 +14,11 @@
 - Implement property prediction from latent space
 - Explore the latent space for materials discovery
 
-**Dataset:** Formation Energy Dataset (Materials Project subset)
-- ~5,000 materials with formation energies (processed from raw data)
-- Composition-based features (elemental properties, stoichiometry)
-- Target: Formation energy per atom (eV/atom)
 
 **VAE Task:** Learn a compact latent representation of materials that captures:
 - Chemical composition patterns
 - Formation energy relationships
 - Materials similarity metrics
-
-**Data Consistency Notes:**
-- This script automatically handles raw structure data by creating sample features
-- For real data processing, run `preprocess_data.py` first to extract composition features
-- The script gracefully handles different data formats and column names
-- Robust validation ensures data quality before VAE training
 
 ---
 """
@@ -200,10 +191,10 @@ def load_formation_energy_dataset():
     """
     Load formation energy dataset for VAE training.
     """
-    data_dir = Path("../data") # common data directory
+    data_dir = Path("./data") # common data directory
     
     # Try to load processed dataset first
-    processed_file = data_dir / "day1_formation_energy_processed.csv"
+    processed_file = data_dir / "formation_energy_processed.csv"
     if processed_file.exists():
         try:
             print("📂 Loading processed formation energy dataset...")
@@ -221,7 +212,7 @@ def load_formation_energy_dataset():
     
     try:
         # Load the prepared formation energy dataset
-        df = pd.read_csv(data_dir / "day1_formation_energy.csv")
+        df = pd.read_csv(data_dir / "formation_energy.csv")
         print(f"✅ Loaded raw data with {len(df)} materials")
         
         # Check if this is raw structure data or processed features

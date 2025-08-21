@@ -1,0 +1,55 @@
+# Material Information
+Material ID: Generated_1
+Chemical Formula: H3.7C2.3N2.5SCl
+Material Type: Non-metallic
+Complexity: Complex
+Formation Energy: -1.482788 eV/atom
+Number of Elements: 5
+
+# Composition (Atomic Fractions)
+H: 0.880226
+C: 0.548162
+N: 0.603498
+S: 0.235806
+Cl: 0.140696
+
+# Feature Vector
+Feature_0: -0.959939
+Feature_1: -0.679454
+Feature_2: -0.613916
+Feature_3: 0.200744
+Feature_4: -0.294150
+Feature_5: -0.223541
+Feature_6: -1.154892
+Feature_7: -0.471932
+Feature_8: -0.358630
+Feature_9: 0.880226
+Feature_10: -0.111828
+Feature_11: 0.548162
+Feature_12: 0.603498
+Feature_13: 0.082074
+Feature_14: -0.151798
+Feature_15: -0.047286
+Feature_16: -0.166291
+Feature_17: -0.004555
+Feature_18: 0.025819
+Feature_19: -0.001021
+Feature_20: 0.235806
+Feature_21: 0.140696
+Feature_22: -0.120493
+Feature_23: -0.143881
+Feature_24: -0.065727
+Feature_25: -0.079453
+Feature_26: -0.026752
+Feature_27: -0.082118
+Feature_28: -0.117855
+Feature_29: -0.103210
+Feature_30: -0.156202
+Feature_31: -0.178868
+Feature_32: -0.157600
+Feature_33: -0.141095
+Feature_34: -0.123282
+Feature_35: -0.018121
+Feature_36: -0.209078
+Feature_37: -0.123665
+Feature_38: -0.140664

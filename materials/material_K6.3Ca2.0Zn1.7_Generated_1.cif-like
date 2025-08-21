@@ -1,0 +1,21 @@
+# CIF-like Material Description
+# This is a simplified representation for educational purposes
+# Real CIF files require crystallographic data not available from VAE
+
+data_K6_3Ca2_0Zn1_7
+
+_chemical_formula_sum    'K6.3Ca2.0Zn1.7'
+_chemical_name_common    'Metallic'
+_formation_energy        -2.028616
+_number_of_elements      3
+
+# Composition
+loop_
+_atom_site_label
+_atom_site_occupancy
+K1  1.928650
+Ca1  0.615519
+Zn1  0.519963
+
+# Note: Atomic coordinates would require crystal structure prediction
+# which is beyond the scope of this VAE model

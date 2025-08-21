@@ -1,0 +1,53 @@
+# Material Information
+Material ID: Generated_3
+Chemical Formula: Li1.6PO7.5
+Material Type: Oxide
+Complexity: Ternary
+Formation Energy: -2.244934 eV/atom
+Number of Elements: 3
+
+# Composition (Atomic Fractions)
+Li: 0.168839
+O: 0.816431
+P: 0.103887
+
+# Feature Vector
+Feature_0: -0.459648
+Feature_1: -0.067522
+Feature_2: -0.003943
+Feature_3: 0.518346
+Feature_4: 0.561608
+Feature_5: 0.556956
+Feature_6: -0.463328
+Feature_7: 0.391987
+Feature_8: 0.395967
+Feature_9: 0.030618
+Feature_10: 0.168839
+Feature_11: -0.026928
+Feature_12: -0.088355
+Feature_13: 0.816431
+Feature_14: -0.039746
+Feature_15: 0.020022
+Feature_16: -0.152336
+Feature_17: -0.037784
+Feature_18: -0.073117
+Feature_19: 0.103887
+Feature_20: -0.191181
+Feature_21: -0.060219
+Feature_22: -0.030789
+Feature_23: -0.037505
+Feature_24: 0.035044
+Feature_25: 0.082393
+Feature_26: 0.037059
+Feature_27: 0.071992
+Feature_28: 0.046381
+Feature_29: -0.046142
+Feature_30: -0.059618
+Feature_31: -0.094657
+Feature_32: -0.090418
+Feature_33: -0.087488
+Feature_34: -0.103532
+Feature_35: -0.101771
+Feature_36: -0.021156
+Feature_37: -0.032213
+Feature_38: -0.065412
