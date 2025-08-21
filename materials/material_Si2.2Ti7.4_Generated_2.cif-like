@@ -1,0 +1,21 @@
+# CIF-like Material Description
+# This is a simplified representation for educational purposes
+# Real CIF files require crystallographic data not available from VAE
+
+data_Si2_2Ti7_4
+
+_chemical_formula_sum    'Si2.2Ti7.4'
+_chemical_name_common    'Compound'
+_formation_energy        -2.318175
+_number_of_elements      3
+
+# Composition
+loop_
+_atom_site_label
+_atom_site_occupancy
+F1  0.110255
+Si1  0.578977
+Ti1  1.946913
+
+# Note: Atomic coordinates would require crystal structure prediction
+# which is beyond the scope of this VAE model

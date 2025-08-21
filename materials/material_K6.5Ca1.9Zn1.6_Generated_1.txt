@@ -1,0 +1,114 @@
+# Material Information
+Material ID: Generated_1
+Chemical Formula: K6.5Ca1.9Zn1.6
+Material Type: Metallic
+Complexity: Ternary
+Formation Energy: -2.033784 eV/atom
+Number of Elements: 3
+
+# Composition (Atomic Fractions)
+K: 1.982290
+Ca: 0.587692
+Zn: 0.491468
+
+# Feature Vector
+Feature_0: -0.302183
+Feature_1: -0.406560
+Feature_2: -0.097355
+Feature_3: -0.092885
+Feature_4: -0.072403
+Feature_5: -0.345835
+Feature_6: -0.202679
+Feature_7: -0.226278
+Feature_8: -0.227850
+Feature_9: -0.222059
+Feature_10: 0.050376
+Feature_11: -0.173837
+Feature_12: -0.135925
+Feature_13: 1.982290
+Feature_14: 0.587692
+Feature_15: -0.000371
+Feature_16: -0.136618
+Feature_17: 0.038542
+Feature_18: -0.134279
+Feature_19: -0.134611
+Feature_20: -0.164804
+Feature_21: -0.157843
+Feature_22: 0.025288
+Feature_23: 0.491468
+Feature_24: -0.298393
+Feature_25: -0.401359
+Feature_26: -0.095450
+Feature_27: -0.098681
+Feature_28: -0.075524
+Feature_29: -0.354036
+Feature_30: -0.201180
+Feature_31: -0.223851
+Feature_32: -0.229761
+Feature_33: -0.216539
+Feature_34: 0.060257
+Feature_35: -0.172807
+Feature_36: -0.138251
+Feature_37: 1.985042
+Feature_38: 0.592176
+Feature_39: 0.001014
+Feature_40: -0.131553
+Feature_41: 0.029696
+Feature_42: -0.135492
+Feature_43: -0.126442
+Feature_44: -0.163173
+Feature_45: -0.149999
+Feature_46: 0.027352
+Feature_47: 0.491283
+Feature_48: -0.307362
+Feature_49: -0.410799
+Feature_50: -0.097192
+Feature_51: -0.094057
+Feature_52: -0.076515
+Feature_53: -0.351137
+Feature_54: -0.202030
+Feature_55: -0.219199
+Feature_56: -0.222639
+Feature_57: -0.224132
+Feature_58: 0.050401
+Feature_59: -0.174504
+Feature_60: -0.132997
+Feature_61: 1.984498
+Feature_62: 0.596573
+Feature_63: 0.000285
+Feature_64: -0.127117
+Feature_65: 0.034753
+Feature_66: -0.133395
+Feature_67: -0.131203
+Feature_68: -0.173678
+Feature_69: -0.146106
+Feature_70: 0.029636
+Feature_71: 0.490943
+Feature_72: 0.121827
+Feature_73: 0.511591
+Feature_74: -0.102617
+Feature_75: -0.755148
+Feature_76: 0.071399
+Feature_77: 1.022078
+Feature_78: -0.013361
+Feature_79: -0.063068
+Feature_80: -0.020184
+Feature_81: 0.077676
+Feature_82: -0.000970
+Feature_83: -0.001553
+Feature_84: -0.033104
+Feature_85: -0.024943
+Feature_86: 0.012632
+Feature_87: 0.024421
+Feature_88: -0.015181
+Feature_89: -0.010437
+Feature_90: -0.126477
+Feature_91: 0.002539
+Feature_92: 0.046495
+Feature_93: -0.021494
+Feature_94: -0.007882
+Feature_95: 0.009870
+Feature_96: 0.092000
+Feature_97: 0.061736
+Feature_98: -0.008945
+Feature_99: 0.046562

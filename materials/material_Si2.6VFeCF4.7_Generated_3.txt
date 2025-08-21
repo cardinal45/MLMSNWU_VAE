@@ -1,0 +1,117 @@
+# Material Information
+Material ID: Generated_3
+Chemical Formula: Si2.6VFeCF4.7
+Material Type: Carbide
+Complexity: Complex
+Formation Energy: -2.502912 eV/atom
+Number of Elements: 6
+
+# Composition (Atomic Fractions)
+C: 0.119809
+F: 1.077424
+Si: 0.586838
+Cl: 0.109820
+V: 0.172448
+Fe: 0.233742
+
+# Feature Vector
+Feature_0: -0.231058
+Feature_1: -0.125171
+Feature_2: 0.119809
+Feature_3: 0.054640
+Feature_4: -0.063703
+Feature_5: 1.077424
+Feature_6: -0.257633
+Feature_7: -0.076921
+Feature_8: -0.311229
+Feature_9: 0.586838
+Feature_10: 0.013506
+Feature_11: -0.279497
+Feature_12: 0.109820
+Feature_13: -0.172031
+Feature_14: -0.306317
+Feature_15: 0.028769
+Feature_16: 0.172448
+Feature_17: 0.082751
+Feature_18: 0.051172
+Feature_19: 0.233742
+Feature_20: -0.276174
+Feature_21: -0.221827
+Feature_22: -0.006929
+Feature_23: -0.154251
+Feature_24: -0.223866
+Feature_25: -0.115889
+Feature_26: 0.124115
+Feature_27: 0.046478
+Feature_28: -0.064244
+Feature_29: 1.063641
+Feature_30: -0.251738
+Feature_31: -0.074233
+Feature_32: -0.318003
+Feature_33: 0.594497
+Feature_34: 0.031189
+Feature_35: -0.277018
+Feature_36: 0.103192
+Feature_37: -0.167101
+Feature_38: -0.291026
+Feature_39: 0.036255
+Feature_40: 0.184677
+Feature_41: 0.065159
+Feature_42: 0.046936
+Feature_43: 0.251258
+Feature_44: -0.277032
+Feature_45: -0.208254
+Feature_46: -0.000669
+Feature_47: -0.149815
+Feature_48: -0.235506
+Feature_49: -0.130383
+Feature_50: 0.120320
+Feature_51: 0.054402
+Feature_52: -0.064650
+Feature_53: 1.070637
+Feature_54: -0.252675
+Feature_55: -0.068303
+Feature_56: -0.304162
+Feature_57: 0.581808
+Feature_58: 0.013185
+Feature_59: -0.280428
+Feature_60: 0.111998
+Feature_61: -0.172228
+Feature_62: -0.286841
+Feature_63: 0.031380
+Feature_64: 0.189284
+Feature_65: 0.078005
+Feature_66: 0.052362
+Feature_67: 0.241639
+Feature_68: -0.293721
+Feature_69: -0.201688
+Feature_70: 0.004271
+Feature_71: -0.147655
+Feature_72: 0.121738
+Feature_73: -0.143336
+Feature_74: 0.139141
+Feature_75: 0.624119
+Feature_76: 0.458181
+Feature_77: -0.394099
+Feature_78: 0.007026
+Feature_79: 0.038245
+Feature_80: 0.012911
+Feature_81: -0.029981
+Feature_82: 0.053108
+Feature_83: 0.016830
+Feature_84: -0.013227
+Feature_85: 0.062092
+Feature_86: 0.012603
+Feature_87: -0.037467
+Feature_88: 0.028659
+Feature_89: 0.019879
+Feature_90: 0.029988
+Feature_91: 0.000502
+Feature_92: -0.021915
+Feature_93: -0.010468
+Feature_94: -0.027505
+Feature_95: -0.011210
+Feature_96: -0.004127
+Feature_97: -0.081573
+Feature_98: 0.020095
+Feature_99: 0.025860

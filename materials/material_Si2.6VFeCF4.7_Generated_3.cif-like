@@ -1,0 +1,24 @@
+# CIF-like Material Description
+# This is a simplified representation for educational purposes
+# Real CIF files require crystallographic data not available from VAE
+
+data_Si2_6VFeCF4_7
+
+_chemical_formula_sum    'Si2.6VFeCF4.7'
+_chemical_name_common    'Carbide'
+_formation_energy        -2.502912
+_number_of_elements      6
+
+# Composition
+loop_
+_atom_site_label
+_atom_site_occupancy
+C1  0.119809
+F1  1.077424
+Si1  0.586838
+Cl1  0.109820
+V1  0.172448
+Fe1  0.233742
+
+# Note: Atomic coordinates would require crystal structure prediction
+# which is beyond the scope of this VAE model
